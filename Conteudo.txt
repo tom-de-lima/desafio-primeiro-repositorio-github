@@ -1,0 +1,1 @@
+Trata-se apenas de um arquivo para permitir a revisão de comandos básicos Git/GitHub relacionados ao envio de arquivos de uma máquina local para um repositório remoto.
